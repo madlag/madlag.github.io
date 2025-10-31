@@ -6,7 +6,7 @@ description: "NVIDIA Ampere A100 introduces fine-grained structured sparsity"
 author: francois
 tags: [ AI, NLP]
 categories: []
-image: assets/images/posts/sparse2/MicroChip.png
+image: assets/images/posts/sparse2/sparse_2_cover.png
 featured: true
 ---
 

@@ -19,3 +19,5 @@ group :jekyll_plugins do
     gem 'rouge'
     gem 'github-pages'
 end
+
+gem "webrick", "~> 1.9"
