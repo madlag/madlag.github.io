@@ -6,7 +6,7 @@ description: "Everyone talks about the chip shortage. But there's a deeper const
 author: francois
 tags: [AI, Infrastructure, Energy]
 categories: []
-image: assets/images/posts/energy-bottleneck/energy-bottleneck.png
+image: assets/images/posts/ai-energy-bottleneck/cover.png
 featured: true
 ---
 
@@ -31,13 +31,13 @@ While I was preparing this post, [Nicolas Steegmann](https://www.linkedin.com/in
 
 <figure style="text-align: center;">
 <a href="https://x.com/aakashg0/status/1985176339712970900" target="_blank">
-<img alt="Tweet about Anthropic's 1TW TPU deal" src="/assets/images/posts/energy-bottleneck/tweet.png" style="border: 2px solid #ddd; border-radius: 8px; max-width: 70%;">
+<img alt="Tweet about Anthropic's 1TW TPU deal" src="/assets/images/posts/ai-energy-bottleneck/tweet.png" style="border: 2px solid #ddd; border-radius: 8px; max-width: 70%;">
 </a>
 </figure>
 
 
 <div class="callout-highlight">
-So yes, the second bottleneck is energy. As GPUs are thrown into data centers by the thousands, the energy consumption is going through the roof. And while the compute power is increasing, companies are now choking on energy constraints.
+So yes, the second bottleneck is energy. As GPUs are thrown into datacenters by the thousands, the energy consumption is going through the roof. And while the compute power is increasing, companies are now choking on energy constraints.
 </div>
 
 That's why companies are signing huge deals with energy providers. That's why companies like OKLO (backed by OpenAI CEO Sam Altman) or SMR are valued at billions of dollars even if they don't even have a draft of a plan to build a product. And you know what? When your goal is to build nuclear reactors like they do, you should have some plan at some point... And it takes ~ 10 years to build a reactor, while at the same time you can probably scale your chip production by several magnitudes. That shows you how important this second bottleneck is, and of course investors know it.
