@@ -1,0 +1,37 @@
+// Custom styles for blog posts
+
+// Text utilities
+.text-bold {
+  font-weight: bold;
+}
+
+.text-italic {
+  font-style: italic;
+}
+
+// Highlighted callout with blue left border
+.callout-highlight {
+  border-left: 4px solid #4A90E2;
+  padding-left: 20px;
+  margin: 20px 0;
+}
+
+// Alternative colors for different types of callouts
+.callout-warning {
+  border-left: 4px solid #FF6B6B;
+  padding-left: 20px;
+  margin: 20px 0;
+}
+
+.callout-success {
+  border-left: 4px solid #51CF66;
+  padding-left: 20px;
+  margin: 20px 0;
+}
+
+.callout-info {
+  border-left: 4px solid #5DADE2;
+  padding-left: 20px;
+  margin: 20px 0;
+}
+
