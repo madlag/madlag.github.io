@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Why Google's TPUs Might Win the AI War"
+date: 2025-11-05
+description: "In an energy-constrained world, the technology that's not the best in terms of software support but 2-3x more efficient might just beat the 'best' technology. Here's why TPUs could win over GPUs."
+author: francois
+tags: [AI, Infrastructure, TPU, GPU, Energy, Google, Cloud]
+categories: []
+image: assets/images/posts/tpu-vs-gpu/cover.png
+featured: true
+---
+
+So what's next? Is OpenAI going to replace Google? Nvidia has won, and will keep its monopoly on AI inference chips for the foreseeable future?
+
+Not so fast.
+
+The game is more complex than it looks. Need proof? Google and OpenAI recently signed a deal allowing OpenAI to use Google's own TPUs.
+
+### The Underdog Technology
+
+Why would OpenAI use Google's TPUs? Why would Google give its biggest competitor access to such a strategic technology?
+
+As we saw in the previous post, energy is the new roadblock in the AI landscape.
+
+Google has their own technology for compute: TPUs. They aren't developers' favorites, because the software stack is not as easy to use as NVIDIA's, not as documented, and they are not as versatile when you are trying to develop new models as a researcher, for example.
+
+<div class="callout-highlight">TPUs are good at compute, measured in flops. But where they shine is energy efficiency: they're 2-3x more efficient than GPUs in flops per watt, which is becoming the key metric to win the compute war.</div>
+
+Some people are downplaying TPUs, for the exact reason I mentioned: it's not easy to use, and it's not as versatile as GPUs.
+
+But you know what? I just need one model, claude-4.5-sonnet, and I need it to be fast. And a lot of people need it too. The 10 most used models probably cover 90% of AI use cases worldwide. And since most models share similar architectures, once you build tools to support those 10, scaling to 1000s takes minimal extra effort.
+
+So of course I would not like to be the one porting code from GPUs to TPUs (I am lying here, that's exactly the kind of thing I enjoyed and still enjoy doing, sorry...), but I am sure it's a no-brainer for Anthropic: what's at stake is just way too big.
+
+### Google's Long Game
+
+That's why Google is investing heavily in TPUs, and it's now the seventh generation of TPUs. And it's coming to mobile too.
+
+So is Nvidia preparing to release a new generation of inference chips, less versatile, but more energy efficient? They would be stupid not to. They already have new lines of products like Rubin CPX. But they will probably need to go further.
+
+### The Battle Behind the Scenes
+
+So the game is on. The battle behind the scenes right now is mostly between Google and Nvidia.
+
+Google Cloud numbers for 2024 Q3 were very good and Nvidia is going through the roof too. It's no wonder: once more, there is a worldwide shortage of compute, period.
+
+<div class="callout-highlight">But here's the thing: in an energy-constrained world, the technology that's not the best in terms of software support but 2-3x more efficient might just beat the "best" technological stack that is too power hungry.
+</div>
+Next time we will have a glimpse of what may be coming after that (hint: what the hell is Apple doing?).
+
+
+
+

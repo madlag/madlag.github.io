@@ -69,5 +69,5 @@ But the companies that win won't just be the ones with the most compute. They'll
 
 ### What's next
 
-Next time, we will see **why Google and Nvidia are the main contenders** in this energy-constrained race, and we will have a glimpse of what's coming after that (hint: what the hell is doing Apple ?).
+Next time, we will see **why Google and Nvidia are the main contenders** in this energy-constrained race.
 
