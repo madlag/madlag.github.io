@@ -12,13 +12,14 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 a {
-    color: #00ab6b;
+    color: inherit;
+    font-weight: bold;
     transition: all 0.2s;
 }
 
 a:hover {
-    color: #038252;
-    text-decoration: none;
+    color: #333;
+    text-decoration: underline;
 }
 
 pre {
@@ -424,11 +425,11 @@ span.post-read-more a:hover {
     }
 
 blockquote {
-    border-left: 4px solid #00ab6b;
+    border-left: 4px solid #333;
     padding: 0 20px;
     font-style: italic;
-    color: rgba(0, 171, 107, 1.0);
-    font-weight: 600;
+    color: rgba(0, 0, 0, .8);
+    font-weight: bold;
 }
 
 .article-post p{
