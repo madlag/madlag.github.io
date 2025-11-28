@@ -35,3 +35,24 @@
   margin: 20px 0;
 }
 
+// Post featured image styling
+.post-featured-image {
+  float: left;
+  margin: 0 20px 20px 0;
+  
+  img.featured-image {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  // Clear float on smaller screens
+  @media (max-width: 768px) {
+    float: none;
+    margin: 20px auto;
+    text-align: center;
+  }
+}
+

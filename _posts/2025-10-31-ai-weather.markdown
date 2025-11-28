@@ -14,6 +14,7 @@ The Claude outage this morning made barely a ripple in the news. Probably most p
 
 But outages are just the worst manifestation of a bigger problem: the complete reliance of AI-based businesses on AI API providers, combined with the fact that these providers are not able to scale to meet the demand.
 
+<div style="clear: both;"></div>
 ### Musical chairs: our provider switching journey
 
 At Random Walk we have been using AI everyday for almost 2 years now, just like a lot of people, to develop [Mimir](https://apps.apple.com/fr/app/mimir-questions-and-answers/id6511234817?l=en-GB), an AI private tutor for children.

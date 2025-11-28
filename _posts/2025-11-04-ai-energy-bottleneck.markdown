@@ -12,6 +12,8 @@ featured: true
 
 This is the second post in the AI Landscape series. If you missed the first one about [What outages reveal about AI provider priorities](/ai-weather/), check it out.
 
+<div style="clear: both;"></div>
+
 ### The historical bottleneck
 
 There has been a worldwide shortage of compute for a while now.

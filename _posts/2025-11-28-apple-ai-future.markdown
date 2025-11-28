@@ -13,6 +13,11 @@ featured: true
 To paraphrase a [famous quote about football](https://en.wikiquote.org/wiki/Gary_Lineker#:~:text=Football%20is%20a%20simple%20game,iNews.) (soccer for our American fellows):
  > "Technology is a simple game, thousands of companies are playing it, and in the end, Apple wins."
 
+
+<div style="clear: both;"></div>
+
+
+
 On AI, however, one could argue that Apple's odds don't look good.
 Apple has not played well *all* the revolutions of the past few years (cars, VR). And you may not have to be able to ride every wave to succeed. But some are taller than others, and AI looks more like a tsunami than a ripple.
 

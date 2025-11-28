@@ -16,6 +16,8 @@ Not so fast.
 
 The game is more complex than it looks. Need proof? Google and OpenAI recently signed a deal allowing OpenAI to use Google's own TPUs.
 
+<div style="clear: both;"></div>
+
 ### The Underdog Technology
 
 Why would OpenAI use Google's TPUs? Why would Google give its biggest competitor access to such a strategic technology?

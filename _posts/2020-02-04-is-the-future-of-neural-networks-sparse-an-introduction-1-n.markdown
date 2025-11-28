@@ -9,15 +9,13 @@ categories: []
 image: assets/images/posts/sparse1/sparse_1_cover.png
 featured: true
 ---
-
-<figure class="figcenter">
-<img class="large" alt="Sparse Matrix" src="/assets/images/posts/sparse1/header.png">
-<figcaption>TLDR:Yes</figcaption>
-</figure>
  
 **Hi, I am François Lagunas.**
 
-I am doing Machine Learning research, and I have been working for the last months on using sparse matrices, especially in Transformers. The recent [**announcement**](https://openai.com/blog/openai-pytorch/) that **OpenAI** is porting its [**block sparse toolbox**](https://openai.com/blog/block-sparse-gpu-kernels/) in **PyTorch** is really big news:
+I am doing Machine Learning research, and I have been working for the last months on using sparse matrices, especially in Transformers.
+
+<div style="clear: both;"></div>
+ The recent [**announcement**](https://openai.com/blog/openai-pytorch/) that **OpenAI** is porting its [**block sparse toolbox**](https://openai.com/blog/block-sparse-gpu-kernels/) in **PyTorch** is really big news:
 
 
 > “We are in the process of writing PyTorch bindings for our highly-optimized blocksparse kernels, and will open-source those bindings in upcoming months.”

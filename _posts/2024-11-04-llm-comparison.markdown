@@ -9,12 +9,19 @@ tags: [AI, LLM, API]
 categories: []
 image: assets/images/posts/llm-comparison/llm_comparison_cover.png
 ---
+Choose your champion: Anthropic, Gemini, or OpenAI ?
+
+
+<div style="clear: both;"></div>
+
 
 # Point of view
 
 This is based on the needs of a real-time audio educational/conversational app: [Mimir](https://apps.apple.com/fr/app/mimir-questions-and-answers/id6511234817?l=en-GB).
 
+
 The main pain points we have to address:
+
 
 - **Latency**
     
