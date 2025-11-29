@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Google's TPUs Might Win the AI War"
-date: 2025-11-05
+date: 2025-11-14
 description: "In an energy-constrained world, the technology that's not the best in terms of software support but 2-3x more efficient might just beat the 'best' technology. Here's why TPUs could win over GPUs."
 author: francois
 tags: [AI, Infrastructure, TPU, GPU, Energy, Google, Cloud]
